@@ -1,0 +1,2 @@
+﻿Bananer,300,12,typ
+Mugg,200,10,typ
